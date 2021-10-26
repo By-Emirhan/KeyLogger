@@ -14,6 +14,6 @@
 * `cd KeyLogger`
 
 ##### Çalıştırmak İçin >>> `python KeyLogger.py | python2 KeyLogger.py`
-<p align="medium">
+<p align="center">
   <img src=".resim/Resim.png">
 </p>
