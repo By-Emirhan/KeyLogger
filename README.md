@@ -1,6 +1,6 @@
 # By-Emirhan
 # KeyLogger
-<p align="center">
+<p align="medium">
   <img src=".resim/Resim.png">
 </p>
 # Hangi Sistemlerde Çalışır? | On Which Systems Does It Work?
