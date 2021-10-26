@@ -1,7 +1,9 @@
 # KeyLogger
 # By-Emirhan
 # KeyLogger
-
+<p align="center">
+  <img src=".resim/Resim.png">
+</p>
 # Hangi Sistemlerde Çalışır? | On Which Systems Does It Work?
 * `KALİ LİNUX`
 * `UBUNTU`
@@ -15,11 +17,4 @@
 * `cd KeyLogger`
 
 ##### Çalıştırmak İçin >>> `python KeyLogger.py | python2 KeyLogger.py`
-
-<h3 align="center">
-:: Ekran Görüntüsü ::
-</h3>
-<p align="center">
-<img src=".Resim.png"/>
-</p>
 
