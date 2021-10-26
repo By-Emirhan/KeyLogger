@@ -1,4 +1,3 @@
-# KeyLogger
 # By-Emirhan
 # KeyLogger
 
@@ -15,3 +14,6 @@
 * `cd KeyLogger`
 
 ##### Çalıştırmak İçin >>> `python KeyLogger.py | python2 KeyLogger.py`
+<p align="center">
+  <img src=".resim/Resim.png">
+</p>
