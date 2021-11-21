@@ -11,7 +11,7 @@
 # YÜKLEME & ÇALIŞTIRMA KOMUTLARI | LOAD & RUN COMMANDS
   
 * `apt-get install python -y | apt-get install python2 -y`
-* `https://github.com/By-Emirhan/KeyLogger.git`  
+* `git clone https://github.com/By-Emirhan/KeyLogger.git`  
 * `cd KeyLogger`
 
 ##### Çalıştırmak İçin >>> `python KeyLogger.py`
