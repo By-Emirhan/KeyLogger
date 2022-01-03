@@ -19,13 +19,13 @@
 
 # `ÇALIŞTIRMA KOMUTLARI | RUN COMMANDS
 
-* `show`
-* `set host <my ip adress>
-* `set port <default : 8080>
-* `run`
+* show
+* set host <my ip adress>
+* set port <default : 8080>
+* run
 
-Çıkan powershell kodunu kopyalayıp .bat dosyası olarak kaydedin. Sonra hedef bilgisayarda çalıştırın.
-Copy the output powershell code and save it as a .bat file. Then run it on the target computer.
+* Çıkan powershell kodunu kopyalayıp .bat dosyası olarak kaydedin. Sonra hedef bilgisayarda çalıştırın.
+* Copy the output powershell code and save it as a .bat file. Then run it on the target computer.
 
 <h3 align="center">
 :: Ekran Görüntüsü ::
