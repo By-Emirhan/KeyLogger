@@ -20,7 +20,7 @@
 # `ÇALIŞTIRMA KOMUTLARI | RUN COMMANDS
 
 * show
-* set host <my ip adress>
+* set host <target ip>
 * set port <default : 8080>
 * run
 
