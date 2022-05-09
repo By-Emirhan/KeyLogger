@@ -2,6 +2,7 @@
 # KeyLogger
 
 # Hangi Sistemlerde Çalışır? | On Which Systems Does It Work?
+* `WINDOWS (It should python install need!)`
 * `KALİ LİNUX`
 * `UBUNTU`
 * `PARDUS`
